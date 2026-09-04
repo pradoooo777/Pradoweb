@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Hundred Islands limestone islets in Lingayen Gulf">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="55%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky)"/>
+  <circle cx="980" cy="90" r="54" fill="#fde68a"/>
+  <rect y="360" width="1200" height="315" fill="url(#sea)"/>
+  <ellipse cx="220" cy="430" rx="140" ry="48" fill="#14532d"/>
+  <path d="M110 430 C140 340 220 300 300 430 Z" fill="#166534"/>
+  <ellipse cx="520" cy="400" rx="170" ry="52" fill="#14532d"/>
+  <path d="M380 400 C430 280 560 250 680 400 Z" fill="#15803d"/>
+  <ellipse cx="860" cy="445" rx="150" ry="46" fill="#14532d"/>
+  <path d="M740 445 C790 340 900 320 990 445 Z" fill="#166534"/>
+  <ellipse cx="1080" cy="410" rx="90" ry="32" fill="#14532d"/>
+  <path d="M1010 410 C1050 350 1110 340 1160 410 Z" fill="#15803d"/>
+  <path d="M0 500 Q180 470 360 510 T720 500 T1200 530 L1200 675 L0 675 Z" fill="#0e7490" opacity="0.35"/>
+</svg>

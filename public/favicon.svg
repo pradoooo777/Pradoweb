@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Pangasinan Heritage">
+  <rect width="32" height="32" rx="6" fill="#12082b"/>
+  <rect x="3" y="3" width="26" height="26" rx="4" fill="#22d3ee"/>
+  <path d="M8 22V12l8-5 8 5v10h-5v-6h-6v6H8z" fill="#12082b"/>
+</svg>
