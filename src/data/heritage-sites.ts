@@ -20,7 +20,7 @@ export const heritageSites: HeritageSite[] = [
     location: "Alaminos, Pangasinan",
     description:
       "A cluster of 124 limestone islets offering island hopping, snorkeling, and pristine beaches across Lingayen Gulf.",
-    imageUrl: "/images/hundred-islands.svg",
+    imageUrl: "/images/hundred-islands.jpg",
     category: "Natural Heritage",
     level: 1,
     xp: 250,
@@ -39,7 +39,7 @@ export const heritageSites: HeritageSite[] = [
     location: "Bolinao, Pangasinan",
     description:
       "One of the tallest and oldest lighthouses in the Philippines, guiding mariners since 1905 along the West Philippine Sea.",
-    imageUrl: "/images/bolinao-lighthouse.svg",
+    imageUrl: "/images/bolinao-lighthouse.jpg",
     category: "Historic Landmark",
     level: 2,
     xp: 180,
@@ -58,7 +58,7 @@ export const heritageSites: HeritageSite[] = [
     location: "Balungao, Pangasinan",
     description:
       "A rejuvenating geothermal spring nestled at the foot of Balungao Hill, popular for wellness and nature retreats.",
-    imageUrl: "/images/balungao-hot-spring.svg",
+    imageUrl: "/images/balungao-hot-spring.jpg",
     category: "Wellness & Nature",
     level: 3,
     xp: 120,

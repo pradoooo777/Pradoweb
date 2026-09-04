@@ -185,7 +185,7 @@ export default function DesignSystemPage() {
           code={`import { HeritageImage } from "@/components/atoms/Image/HeritageImage";
 
 <HeritageImage
-  src="/images/hundred-islands.svg"
+  src="/images/hundred-islands.jpg"
   alt="Hundred Islands National Park"
   aspectRatio="16/9"
 />`}
